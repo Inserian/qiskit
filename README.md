@@ -19,6 +19,16 @@ For more details on how to use Qiskit, refer to the documentation located here:
 
 <https://docs.quantum.ibm.com/>
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Create your first quantum program in Qiskit](#create-your-first-quantum-program-in-qiskit)
+  - [Executing your code on real quantum hardware](#executing-your-code-on-real-quantum-hardware)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Authors and Citation](#authors-and-citation)
+- [Changelog and Release Notes](#changelog-and-release-notes)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 ## Installation
 
@@ -135,7 +145,6 @@ We use [GitHub issues](https://github.com/Qiskit/qiskit/issues) for tracking req
 [join the Qiskit Slack community](https://qisk.it/join-slack) for discussion, comments, and questions.
 For questions related to running or using Qiskit, [Stack Overflow has a `qiskit`](https://stackoverflow.com/questions/tagged/qiskit).
 For questions on quantum computing with Qiskit, use the `qiskit` tag in the [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit) (please, read first the [guidelines on how to ask](https://quantumcomputing.stackexchange.com/help/how-to-ask) in that forum).
-
 
 ## Authors and Citation
 
